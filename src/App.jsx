@@ -22,7 +22,11 @@ function App() {
           count is {count}
         </button>
         <p>
-          Edit <code>src/App.jsx</code> and save to test HMR poda chekka
+          Edit <code>src/App.jsx</code> and save to tes54
+          7
+          97
+          97
+          97
         </p>
       </div>
       <p className="read-the-docs">
