@@ -24,9 +24,7 @@ function App() {
         <p>
           Edit <code>src/App.jsx</code> and save to tes54
           7
-          97
-          97
-          97
+  
         </p>
       </div>
       <p className="read-the-docs">
